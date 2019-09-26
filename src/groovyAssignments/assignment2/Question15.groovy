@@ -57,7 +57,7 @@ MyStack stack = new MyStack(4)
 println stack.isEmpty()
 
 println stack.pop()
-stack.push(1)
+stack.push("souvik")
 stack.push(1)
 stack.push(1)
 stack.push(1)

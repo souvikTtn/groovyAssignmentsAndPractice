@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16f5cdf2-4a27-4b7b-a2c2-c916e757a669" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/groovyPractice/files/byteImage" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/groovyPractice/files/byteImage" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/groovyPractice/groovyAssignments/assignment1/FileDemo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/groovyPractice/groovyAssignments/assignment1/FileDemo3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/files/byteImage" beforeDir="false" afterPath="$PROJECT_DIR$/src/files/byteImage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groovyAssignments/assignment2/Question15.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/groovyAssignments/assignment2/Question15.groovy" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,14 +24,14 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="3" />
-          <entry key="Groovy" value="48" />
-          <entry key="JAVA" value="16" />
+          <entry key="Groovy" value="55" />
+          <entry key="JAVA" value="17" />
           <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Groovy" value="8564" />
+          <entry key="Groovy" value="10009" />
           <entry key="JAVA" value="234" />
           <entry key="PLAIN_TEXT" value="225" />
         </counts>
@@ -44,10 +41,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/groovyAssignments/assignment2/Question15.groovy">
+        <entry file="file://$PROJECT_DIR$/src/groovyAssignments/assignment2/Question23.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="65" column="22" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
+            <state relative-caret-position="144">
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -127,6 +124,12 @@
         <option value="$PROJECT_DIR$/src/groovyAssignments/assignment2/Question13.groovy" />
         <option value="$PROJECT_DIR$/src/groovyAssignments/assignment2/Question14.groovy" />
         <option value="$PROJECT_DIR$/src/groovyAssignments/assignment2/Question15.groovy" />
+        <option value="$PROJECT_DIR$/src/groovyAssignments/assignment2/Question16.groovy" />
+        <option value="$PROJECT_DIR$/src/groovyAssignments/assignment2/Question17.groovy" />
+        <option value="$PROJECT_DIR$/src/groovyAssignments/assignment2/Employee2.groovy" />
+        <option value="$PROJECT_DIR$/src/groovyAssignments/assignment2/Question22.groovy" />
+        <option value="$PROJECT_DIR$/src/groovyAssignments/assignment2/Question21.groovy" />
+        <option value="$PROJECT_DIR$/src/groovyAssignments/assignment2/Question23.groovy" />
       </list>
     </option>
   </component>
@@ -184,7 +187,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569471319891" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569479373870" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -209,10 +212,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Groovy.Question15">
-    <configuration name="Question12" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+  <component name="RunManager" selected="Groovy.Question23">
+    <configuration name="Question16" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="groovyPractice" />
-      <setting name="path" value="file://$PROJECT_DIR$/src/groovyAssignments/assignment2/Question12.groovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/groovyAssignments/assignment2/Question16.groovy" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
       <setting name="workDir" value="file://$PROJECT_DIR$/src/groovyAssignments/assignment2" />
@@ -221,9 +224,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question13" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+    <configuration name="Question17" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="groovyPractice" />
-      <setting name="path" value="file://$PROJECT_DIR$/src/groovyAssignments/assignment2/Question13.groovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/groovyAssignments/assignment2/Question17.groovy" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
       <setting name="workDir" value="file://$PROJECT_DIR$/src/groovyAssignments/assignment2" />
@@ -232,9 +235,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question14" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+    <configuration name="Question21" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="groovyPractice" />
-      <setting name="path" value="file://$PROJECT_DIR$/src/groovyAssignments/assignment2/Question14.groovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/groovyAssignments/assignment2/Question21.groovy" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
       <setting name="workDir" value="file://$PROJECT_DIR$/src/groovyAssignments/assignment2" />
@@ -243,9 +246,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question15" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+    <configuration name="Question22" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="groovyPractice" />
-      <setting name="path" value="file://$PROJECT_DIR$/src/groovyAssignments/assignment2/Question15.groovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/groovyAssignments/assignment2/Question22.groovy" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
       <setting name="workDir" value="file://$PROJECT_DIR$/src/groovyAssignments/assignment2" />
@@ -254,9 +257,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question9" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+    <configuration name="Question23" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="groovyPractice" />
-      <setting name="path" value="file://$PROJECT_DIR$/src/groovyAssignments/assignment2/Question9.groovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/groovyAssignments/assignment2/Question23.groovy" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
       <setting name="workDir" value="file://$PROJECT_DIR$/src/groovyAssignments/assignment2" />
@@ -266,19 +269,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Groovy.Question9" />
-      <item itemvalue="Groovy.Question12" />
-      <item itemvalue="Groovy.Question13" />
-      <item itemvalue="Groovy.Question14" />
-      <item itemvalue="Groovy.Question15" />
+      <item itemvalue="Groovy.Question16" />
+      <item itemvalue="Groovy.Question17" />
+      <item itemvalue="Groovy.Question22" />
+      <item itemvalue="Groovy.Question21" />
+      <item itemvalue="Groovy.Question23" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Groovy.Question15" />
-        <item itemvalue="Groovy.Question14" />
-        <item itemvalue="Groovy.Question13" />
-        <item itemvalue="Groovy.Question12" />
-        <item itemvalue="Groovy.Question9" />
+        <item itemvalue="Groovy.Question23" />
+        <item itemvalue="Groovy.Question21" />
+        <item itemvalue="Groovy.Question22" />
+        <item itemvalue="Groovy.Question17" />
+        <item itemvalue="Groovy.Question16" />
       </list>
     </recent_temporary>
   </component>
@@ -294,12 +297,12 @@
       <updated>1568977717363</updated>
       <workItem from="1568977720625" duration="11316000" />
       <workItem from="1569215875857" duration="31548000" />
-      <workItem from="1569469131242" duration="2104000" />
+      <workItem from="1569469131242" duration="7519000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44968000" />
+    <option name="totallyTimeSpent" value="50383000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="690" extended-state="6" />
@@ -314,12 +317,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924242" weight="0.5890151" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924242" visible="true" weight="0.33522728" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3314394" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.6609849" />
       <window_info anchor="bottom" id="SonarLint" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.5984849" />
@@ -383,48 +386,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/InterOperabilityExample.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MapExample.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OprtionalParameter.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Closure.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GroovyPractice.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="37" lean-forward="true" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/InnerClassDemo.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/TraitDemo.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
@@ -451,6 +412,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding>
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -633,19 +612,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.ideaLibSources/groovy-2.5.8-sources.jar!/org/codehaus/groovy/runtime/DefaultGroovyMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="1257" column="30" selection-start-line="1257" selection-start-column="30" selection-end-line="1257" selection-end-column="30" />
-          <folding>
-            <element signature="e#46651#46652#0" expanded="true" />
-            <element signature="e#46718#46719#0" expanded="true" />
-            <element signature="e#395566#395567#0" expanded="true" />
-            <element signature="e#395600#395601#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/groovyAssignments/assignment2/Question7.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -660,17 +626,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/groovyAssignments/assignment2/Employee.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.ideaLibSources/groovy-2.5.8-sources.jar!/org/codehaus/groovy/runtime/StringGroovyMethods.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="3501" column="31" selection-start-line="3501" selection-start-column="31" selection-end-line="3501" selection-end-column="31" />
+          <folding>
+            <element signature="e#71251#71252#0" expanded="true" />
+            <element signature="e#71292#71293#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -725,8 +688,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/groovyAssignments/assignment2/Question15.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="65" column="22" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
+        <state relative-caret-position="648">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/groovyAssignments/assignment2/Question16.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/groovyAssignments/assignment2/Question17.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/groovyAssignments/assignment2/Employee.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/groovyAssignments/assignment2/Employee2.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/groovy-2.5.8-sources.jar!/org/codehaus/groovy/runtime/DefaultGroovyMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="5269" column="5" lean-forward="true" selection-start-line="5269" selection-start-column="5" selection-end-line="5269" selection-end-column="5" />
+          <folding>
+            <element signature="e#46651#46652#0" expanded="true" />
+            <element signature="e#46718#46719#0" expanded="true" />
+            <element signature="e#395566#395567#0" expanded="true" />
+            <element signature="e#395600#395601#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/groovyAssignments/assignment2/Question22.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <folding>
+            <element signature="e#556#581#0" />
+            <element signature="e#556#581#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/groovyAssignments/assignment2/Question21.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/groovyAssignments/assignment2/Question23.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
         </state>
       </provider>
     </entry>
